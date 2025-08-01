@@ -25,10 +25,6 @@ app.use(cors({
 
 
 
-// mongoose
-//   .connect("mongodb+srv://shivamkrsingh:EkG92RE3sZ37gJRn@cluster0.dgt7e.mongodb.net/chatdb?retryWrites=true&w=majority&appName=Cluster0")
-//   .then((e) => console.log("MongoDB Connected"));
-
 app.use("/api/auth", authRouter);
 app.use("/api/messages", messageRouter);
 
