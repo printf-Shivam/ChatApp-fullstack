@@ -1,22 +1,22 @@
-# 💬 Real Time Chat-App
+# Real Time Chat-App
 
 The project is a real-time chat application built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js).  
 It supports **one-to-one chats**, with features like user authentication, real-time messaging, and image sharing.  
 
 ---
 
-## 🚀 Features
+## Features
 
-### 👤 User Features
-- 🔐 **Authentication & Authorization** (JWT-based login/register)
-- 💬 **One-to-One Messaging**
-- 🟢 **Real-time Messaging** with WebSockets (Socket.io)
-- 📷 **Image Sharing**
-- 🔔 **Profile Picture Updateing** for user
+###  User Features
+- **Authentication & Authorization** (JWT-based login/register)
+- **One-to-One Messaging**
+- **Real-time Messaging** with WebSockets (Socket.io)
+- **Image Sharing**
+- **Profile Picture Updateing** for user
 
 ---
 
-## 🏗️ Tech Stack
+## Tech Stack
 
 ### 🎨 Frontend (React.js)
 - React + Hooks  
